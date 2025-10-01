@@ -6,13 +6,13 @@ This repository contains the final presentation for a data analytics project foc
 To analyze passenger satisfaction data and generate actionable insights that airlines can use to improve service quality, enhance customer loyalty, and inform operational decisions.
 
 ## Agenda
-Business Problem
-Predictive Modeling
-Initial Findings
-Model Results
-Model Validation
-Roadblocks
-Conclusion & Next Steps
+- Business Problem
+- Predictive Modeling
+- Initial Findings
+- Model Results
+- Model Validation
+- Roadblocks
+- Conclusion & Next Steps
 
 ## Topics Covered
 - Exploratory Data Analysis (EDA)
